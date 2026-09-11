@@ -157,7 +157,7 @@ function App() {
           className="hero"
           id="home"
           style={{
-            backgroundImage: "url('/cnc-machines-background.jpg')",
+            backgroundImage: "url('./cnc-machines-background.jpg')",
             backgroundSize: "cover",
             backgroundPosition: "right center",
             backgroundRepeat: "no-repeat",
@@ -278,7 +278,7 @@ function App() {
               >
 
                 <img
-                  src="/sundhar-mohan.jpg"
+                  src="./sundhar-mohan.jpg"
                   alt="Sundhar Mohan"
                   className="hero-photo"
                   style={{
