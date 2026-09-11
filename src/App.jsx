@@ -589,7 +589,7 @@ function App() {
                     </div>
 
                     <img
-                      src="/ethereal-machines-logo.jpg"
+                      src="./ethereal-machines-logo.jpg"
                       alt="Ethereal Machines"
                       className="experience-company-logo"
                     />
@@ -697,7 +697,7 @@ function App() {
                     </div>
 
                     <img
-                      src="/ethereal-machines-logo.jpg"
+                      src="./ethereal-machines-logo.jpg"
                       alt="Ethereal Machines"
                       className="experience-company-logo"
                     />
@@ -780,7 +780,7 @@ function App() {
                     </div>
 
                     <img
-                      src="/felder-group-logo.jpg"
+                      src="./felder-group-logo.jpg"
                       alt="Felder Group"
                       className="experience-company-logo"
                     />
